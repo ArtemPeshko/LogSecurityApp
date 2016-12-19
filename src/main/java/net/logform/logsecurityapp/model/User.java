@@ -1,4 +1,4 @@
-package net.proselyte.logsecurityapp.model;
+package net.logform.logsecurityapp.model;
 
 import javax.persistence.*;
 import java.util.Set;

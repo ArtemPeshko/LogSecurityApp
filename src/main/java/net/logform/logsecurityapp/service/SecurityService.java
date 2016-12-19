@@ -1,4 +1,4 @@
-package net.proselyte.logsecurityapp.service;
+package net.logform.logsecurityapp.service;
 
 /**
  * Service for Security.

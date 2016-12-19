@@ -1,9 +1,9 @@
-package net.proselyte.logsecurityapp.controller;
+package net.logform.logsecurityapp.controller;
 
-import net.proselyte.logsecurityapp.model.User;
-import net.proselyte.logsecurityapp.service.SecurityService;
-import net.proselyte.logsecurityapp.service.UserService;
-import net.proselyte.logsecurityapp.validator.UserValidator;
+import net.logform.logsecurityapp.model.User;
+import net.logform.logsecurityapp.service.SecurityService;
+import net.logform.logsecurityapp.service.UserService;
+import net.logform.logsecurityapp.validator.UserValidator;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 
 /**
- * Controller for {@link net.proselyte.logsecurityapp.model.User}'s pages.
+ * Controller for {@link net.logform.logsecurityapp.model.User}'s pages.
  * Created by Artem on 20.12.2016.
  */
 

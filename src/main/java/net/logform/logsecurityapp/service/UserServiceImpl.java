@@ -1,8 +1,8 @@
-package net.proselyte.logsecurityapp.service;
-import net.proselyte.logsecurityapp.dao.RoleDao;
-import net.proselyte.logsecurityapp.dao.UserDao;
-import net.proselyte.logsecurityapp.model.Role;
-import net.proselyte.logsecurityapp.model.User;
+package net.logform.logsecurityapp.service;
+import net.logform.logsecurityapp.dao.RoleDao;
+import net.logform.logsecurityapp.dao.UserDao;
+import net.logform.logsecurityapp.model.Role;
+import net.logform.logsecurityapp.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.bcrypt.BCryptPasswordEncoder;
 import org.springframework.stereotype.Service;

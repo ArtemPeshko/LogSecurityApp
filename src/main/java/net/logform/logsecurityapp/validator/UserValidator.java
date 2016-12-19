@@ -1,7 +1,7 @@
-package net.proselyte.logsecurityapp.validator;
+package net.logform.logsecurityapp.validator;
 
-import net.proselyte.logsecurityapp.model.User;
-import net.proselyte.logsecurityapp.service.UserService;
+import net.logform.logsecurityapp.model.User;
+import net.logform.logsecurityapp.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 import org.springframework.validation.Errors;
@@ -9,7 +9,7 @@ import org.springframework.validation.ValidationUtils;
 import org.springframework.validation.Validator;
 
 /**
- * Validator for {@link net.proselyte.logsecurityapp.model.User} class,
+ * Validator for {@link net.logform.logsecurityapp.model.User} class,
  * implements {@link Validator} interface.
  * Created by Artem on 20.12.2016.
  */

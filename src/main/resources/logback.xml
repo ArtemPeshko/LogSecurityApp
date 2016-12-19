@@ -7,7 +7,7 @@
         </encoder>
     </appender>
 
-    <logger name="net.proselyte.logsecurityapp">
+    <logger name="net.logform.logsecurityapp">
         <level value="debug"/>
     </logger>
 

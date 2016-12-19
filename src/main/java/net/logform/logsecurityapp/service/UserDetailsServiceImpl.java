@@ -1,8 +1,8 @@
-package net.proselyte.logsecurityapp.service;
+package net.logform.logsecurityapp.service;
 
-import net.proselyte.logsecurityapp.dao.UserDao;
-import net.proselyte.logsecurityapp.model.Role;
-import net.proselyte.logsecurityapp.model.User;
+import net.logform.logsecurityapp.dao.UserDao;
+import net.logform.logsecurityapp.model.Role;
+import net.logform.logsecurityapp.model.User;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.authority.SimpleGrantedAuthority;
